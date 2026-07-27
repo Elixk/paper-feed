@@ -1,339 +1,387 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Paper Feed AI Summary</title><link>https://github.com/Elixk.github.io/paper-feed/ai_summary.html</link><description>AI-generated literature digest for filtered papers</description><language>zh-CN</language><lastBuildDate>Sun, 26 Jul 2026 19:13:21 GMT</lastBuildDate><item><title>AI Literature Summary - 2026-07-26 19:13</title><link>https://github.com/Elixk.github.io/paper-feed/ai_summary.html</link><description>&lt;div style=&quot;max-width:920px;margin:0 auto;padding:24px;background:#f5f7fb;color:#1f2937;font-family:-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Microsoft YaHei&#x27;,Arial,sans-serif;line-height:1.65;&quot;&gt;
-  &lt;div style=&quot;padding:28px;border-radius:16px;background:linear-gradient(135deg,#0f172a 0%,#1e3a8a 100%);color:#ffffff;box-shadow:0 10px 28px rgba(15,23,42,0.16);&quot;&gt;
-    &lt;div style=&quot;font-size:13px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#bfdbfe;&quot;&gt;Research Digest&lt;/div&gt;
-    &lt;h1 style=&quot;margin:6px 0 10px;font-size:30px;line-height:1.2;font-weight:800;&quot;&gt;Daily AI Literature Insights&lt;/h1&gt;
-    &lt;div style=&quot;font-size:14px;color:#dbeafe;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Paper Feed AI Summary</title><link>https://github.com/Elixk.github.io/paper-feed/ai_summary.html</link><description>AI-generated literature digest for filtered papers</description><language>zh-CN</language><lastBuildDate>Mon, 27 Jul 2026 19:35:41 GMT</lastBuildDate><item><title>AI Literature Summary - 2026-07-27 19:35</title><link>https://github.com/Elixk.github.io/paper-feed/ai_summary.html</link><description>&lt;div lang=&quot;zh-CN&quot; style=&quot;max-width:920px;margin:0 auto;padding:24px;background:#f4f7fb;color:#172033;font-family:-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Hiragino Sans GB&#x27;,&#x27;Microsoft YaHei&#x27;,Arial,sans-serif;line-height:1.7;&quot;&gt;
+  &lt;header style=&quot;padding:30px;border-radius:18px;background:linear-gradient(135deg,#102a43 0%,#175676 58%,#148a8a 100%);color:#ffffff;box-shadow:0 12px 30px rgba(16,42,67,0.18);&quot;&gt;
+    &lt;div style=&quot;margin-bottom:8px;font-size:12px;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:#bfe9e8;&quot;&gt;Daily Research Digest&lt;/div&gt;
+    &lt;h1 style=&quot;margin:0 0 12px;font-size:30px;line-height:1.25;font-weight:800;&quot;&gt;Daily AI Literature Insights&lt;/h1&gt;
+    &lt;div style=&quot;font-size:14px;color:#d9f1f0;&quot;&gt;
       生成时间：
-      &lt;time datetime=&quot;2026-07-26T19:13:21.670461Z&quot;&gt;2026-07-26 19:13:21 UTC&lt;/time&gt;
-      &lt;span style=&quot;margin:0 8px;color:#93c5fd;&quot;&gt;•&lt;/span&gt;
-      按用户研究方向优先级排序
+      &lt;time datetime=&quot;2026-07-27T19:35:41.464772Z&quot;&gt;2026-07-27 19:35:41.464772 UTC&lt;/time&gt;
     &lt;/div&gt;
     &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:12px;margin-top:20px;&quot;&gt;
-      &lt;div style=&quot;min-width:145px;padding:10px 14px;border:1px solid rgba(255,255,255,0.22);border-radius:10px;background:rgba(255,255,255,0.10);&quot;&gt;
-        &lt;div style=&quot;font-size:12px;color:#bfdbfe;&quot;&gt;候选论文&lt;/div&gt;
+      &lt;div style=&quot;min-width:150px;padding:12px 16px;border:1px solid rgba(255,255,255,0.24);border-radius:12px;background:rgba(255,255,255,0.10);&quot;&gt;
+        &lt;div style=&quot;font-size:12px;color:#cce7e7;&quot;&gt;候选论文&lt;/div&gt;
         &lt;div style=&quot;font-size:24px;font-weight:800;&quot;&gt;100&lt;/div&gt;
       &lt;/div&gt;
-      &lt;div style=&quot;min-width:145px;padding:10px 14px;border:1px solid rgba(255,255,255,0.22);border-radius:10px;background:rgba(255,255,255,0.10);&quot;&gt;
-        &lt;div style=&quot;font-size:12px;color:#bfdbfe;&quot;&gt;入选论文&lt;/div&gt;
-        &lt;div style=&quot;font-size:24px;font-weight:800;&quot;&gt;24&lt;/div&gt;
+      &lt;div style=&quot;min-width:150px;padding:12px 16px;border:1px solid rgba(255,255,255,0.24);border-radius:12px;background:rgba(255,255,255,0.10);&quot;&gt;
+        &lt;div style=&quot;font-size:12px;color:#cce7e7;&quot;&gt;入选论文&lt;/div&gt;
+        &lt;div style=&quot;font-size:24px;font-weight:800;&quot;&gt;25&lt;/div&gt;
       &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;p style=&quot;margin:18px 0 0;font-size:13px;color:#d9f1f0;&quot;&gt;以下内容按用户研究方向的优先顺序排列；本期未命中的方向不单独展示。&lt;/p&gt;
+  &lt;/header&gt;
+
+  &lt;div style=&quot;margin:20px 0 28px;padding:18px 20px;border:1px solid #dce5ef;border-radius:14px;background:#ffffff;&quot;&gt;
+    &lt;div style=&quot;margin-bottom:10px;font-size:13px;font-weight:800;color:#40536a;&quot;&gt;本期命中方向&lt;/div&gt;
+    &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px;&quot;&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#e8f1ff;color:#225ea8;font-size:12px;font-weight:700;&quot;&gt;Explainable AI (XAI) · 1&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#e8f1ff;color:#225ea8;font-size:12px;font-weight:700;&quot;&gt;Interpretable ML · 2&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#eeeafe;color:#6741b8;font-size:12px;font-weight:700;&quot;&gt;AI Accountability · 1&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#e8f7f3;color:#087f5b;font-size:12px;font-weight:700;&quot;&gt;Transfer Learning · 1&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#e8f7f3;color:#087f5b;font-size:12px;font-weight:700;&quot;&gt;Pre-trained Model · 1&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#eef7e8;color:#4c7d21;font-size:12px;font-weight:700;&quot;&gt;Remote Sensing · 1&lt;/span&gt;
+      &lt;span style=&quot;padding:5px 10px;border-radius:999px;background:#fff3df;color:#a85d00;font-size:12px;font-weight:700;&quot;&gt;Energy Storage · 18&lt;/span&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;1&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Trustworthy AI · 可信人工智能 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（2 篇）&lt;/span&gt;&lt;/h2&gt;
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #2f80ed;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#163d6b;&quot;&gt;1. Explainable AI (XAI)&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#56708e;&quot;&gt;1 PAPER&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.pnas.org/doi/abs/10.1073/pnas.2609610123?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;The accuracy of electrostatic interactions captured by AI protein structure prediction models&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #dce6f2;border-left:5px solid #2f80ed;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(31,55,80,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;01 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2605.00415&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174f91;text-decoration:none;&quot;&gt;&lt;strong&gt;Machine learning evaluation of structural descriptors for supercooled water&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;PNAS&lt;/strong&gt; · 2026-07-17 · 方向：trustworthy AI
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#e8f1ff;color:#225ea8;font-weight:700;&quot;&gt;匹配方向：explainable AI (XAI)&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;研究系统评估AI蛋白质结构预测模型刻画&lt;strong&gt;静电相互作用&lt;/strong&gt;的准确性，以检验其在物理化学约束层面的可靠性。结果揭示现代结构预测器存在反复出现的局限，即对静电作用的表达能力不足，说明结构预测精度并不必然代表模型充分学习了底层物理规律，需将&lt;strong&gt;物理一致性&lt;/strong&gt;纳入可信AI评估。&lt;/p&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究利用&lt;strong&gt;神经网络温度分类任务&lt;/strong&gt;，系统比较&lt;strong&gt;16种超冷水局部结构描述符&lt;/strong&gt;区分温度相关微观结构变化的能力。研究进一步引入&lt;strong&gt;可解释人工智能方法&lt;/strong&gt;识别驱动模型预测的关键结构特征，从而揭示不同描述符如何编码四面体有序度、局部密度及配位壳层分离等信息，并建立了数据驱动的结构描述符评测框架。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
+
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #3c72c4;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#163d6b;&quot;&gt;2. Interpretable Machine Learning&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#56708e;&quot;&gt;2 PAPERS&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2606.16385&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Melt-Quench Failures and Practical Solutions for Universal Machine-Learning Interatomic Potentials in Amorphous Structure Generation&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #dce6f2;border-left:5px solid #3c72c4;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(31,55,80,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;02 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2607.09279&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174f91;text-decoration:none;&quot;&gt;&lt;strong&gt;Transient Reserves, Sink Dampers, and the Failure of Eigenvalue Reasoning in the Attention Propagator&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;arXiv&lt;/strong&gt; · 2026-07-17 · 方向：trustworthy AI
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#e8f1ff;color:#225ea8;font-weight:700;&quot;&gt;匹配方向：interpretable machine learning&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究评估&lt;strong&gt;通用机器学习原子间势（uMLIPs）&lt;/strong&gt;在非平衡熔融—淬火条件下的可靠性，发现八种主流模型即使具有较准确的能量和力预测，仍会因能量—体积响应及压力预测失真而生成密度严重偏低的非物理结构。作者提出&lt;strong&gt;压力定向微调&lt;/strong&gt;和&lt;strong&gt;NVT淬火后NPT平衡&lt;/strong&gt;两种修复方案，并在30种材料上验证后者可将相对第一性原理模拟的密度平均绝对误差从&lt;strong&gt;2.46降至0.35 g/cm³&lt;/strong&gt;，为科学机器学习模型的稳健验证提供了实用准则。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对因果Transformer中注意力矩阵的非正规性，指出仅依赖特征值无法解释有限深度下的信息传播，并使用&lt;strong&gt;伪谱、Kreiss常数与去膨胀算子&lt;/strong&gt;分析&lt;strong&gt;GPT-2、Pythia-410m和Llama-3-8B&lt;/strong&gt;。实验发现少数路由头承担瞬态信息保留，而多数注意力汇聚头充当瞬态阻尼器；对Llama-3-8B的&lt;strong&gt;钳制干预&lt;/strong&gt;进一步建立了大幅激活维度、汇聚注意力和瞬态阻尼之间的因果链，为理解Transformer内部机制和头部功能提供了更可靠的可解释性工具。&lt;/p&gt;
+    &lt;/article&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;2&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Explainable AI (XAI) · 可解释人工智能 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（1 篇）&lt;/span&gt;&lt;/h2&gt;
-    &lt;/div&gt;
-
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003009/v2?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Explainable Machine Learning for Low-Emission Methane Tri-Reforming: Carbon Formation, Hydrogen Production, and Operating-Window Optimization&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #dce6f2;border-left:5px solid #3c72c4;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(31,55,80,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;03 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2510.18469&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174f91;text-decoration:none;&quot;&gt;&lt;strong&gt;Interpretable machine learning of magnetic transition temperature in Heusler magnets via hierarchical dependence extraction&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;ChemRxiv&lt;/strong&gt; · 2026-07-17 · 方向：explainable AI (XAI)
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#dbeafe;color:#1d4ed8;&quot;&gt;中等相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#e8f1ff;color:#225ea8;font-weight:700;&quot;&gt;匹配方向：interpretable machine learning&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;针对甲烷三重重整中甲烷转化、合成气组成、反应器能耗与积碳之间难以兼顾的问题，研究构建&lt;strong&gt;可解释机器学习框架&lt;/strong&gt;，对&lt;strong&gt;积碳、产氢和操作窗口&lt;/strong&gt;进行联合分析与优化。该方法通过解释工艺变量与多个性能指标之间的关系识别关键权衡，为筛选低排放、低积碳且高产氢的运行区间提供数据驱动依据。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对 Heusler 磁体磁性转变温度预测中模型可解释性不足的问题，采用&lt;strong&gt;层次依赖提取（HDE）&lt;/strong&gt;方法，从主效应到高阶效应解析化学组成、磁矩与转变温度之间的关系。HDE 在保持完全可解释并能构造显式预测表达式的同时，取得了与&lt;strong&gt;神经网络和随机森林&lt;/strong&gt;相当的精度，并揭示&lt;strong&gt;Fe、Co、Mn&lt;/strong&gt;的含量是影响转变温度的主要因素。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;3&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Interpretable Machine Learning · 可解释机器学习 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（3 篇）&lt;/span&gt;&lt;/h2&gt;
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #7251c8;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#453078;&quot;&gt;3. AI Accountability&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#6f6190;&quot;&gt;1 PAPER&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2602.17750&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #e4def5;border-left:5px solid #7251c8;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(58,40,100,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;04 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2607.09195&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#5e3ba6;text-decoration:none;&quot;&gt;&lt;strong&gt;Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;arXiv&lt;/strong&gt; · 2026-07-20 · 方向：interpretable machine learning
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#dbeafe;color:#1d4ed8;&quot;&gt;中等相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#eeeafe;color:#6741b8;font-weight:700;&quot;&gt;匹配方向：AI accountability&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究提出&lt;strong&gt;非弹性本构Kolmogorov-Arnold网络（iCKAN）&lt;/strong&gt;，旨在从应变历史与应力数据中自动发现具有物理可解释性的弹性和非弹性本构关系，并将其表示为&lt;strong&gt;闭式符号势函数&lt;/strong&gt;。合成数据及&lt;strong&gt;VHB 4910、VHB 4905&lt;/strong&gt;聚合物实验表明，该方法能够准确刻画复杂黏弹性行为，同时保留模型透明度，并可融合温度等附加条件分析材料性质变化。&lt;/p&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该论文关注LLM智能体开展自动化科学研究时，假设提出、实验检验和信念更新过程隐藏在非结构化日志中、难以审计的问题，提出&lt;strong&gt;假设演化协议HEP&lt;/strong&gt;，将假设生成、评估、证据记录与修正定义为显式可追踪操作。在材料科学任务上，HEP使智能体能够执行可检查的&lt;strong&gt;“假设—测试—证据—信念”循环&lt;/strong&gt;，并随基础模型能力增强而更充分地利用该协议，为可验证、透明且可问责的AI科学家提供了实现路径。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
+
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #159570;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#12614d;&quot;&gt;4. Transfer Learning&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#4f756b;&quot;&gt;1 PAPER&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://chemrxiv.org/doi/full/10.26434/chemrxiv.15006140/v1?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;NJmatWeb: An AI-Driven Web Platform Automating Machine Learning and Genetic Algorithm for Materials Science&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #d9ebe5;border-left:5px solid #159570;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(20,90,70,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;05 · 2026-07-14&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2607.10666&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#087f5b;text-decoration:none;&quot;&gt;&lt;strong&gt;Answer-Conditioned Chain-of-Thought Distillation for Few-Shot Industrial Vision with Small VLMs&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;ChemRxiv&lt;/strong&gt; · 2026-07-16 · 方向：interpretable machine learning
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#e8f7f3;color:#087f5b;font-weight:700;&quot;&gt;匹配方向：transfer learning&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;&lt;strong&gt;NJmatWeb&lt;/strong&gt;旨在解决材料性能预测工具难以同时支持自动特征选择、可解释建模和便捷交互的问题，构建了一个由AI驱动的Web平台。该平台将&lt;strong&gt;机器学习与遗传算法&lt;/strong&gt;自动化集成到统一工作流中，以降低材料数据建模门槛；所给摘要未展示具体数据集上的预测精度、解释质量或计算效率结果。&lt;/p&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对工业视觉检测中缺陷类型频繁变化、标注样本稀缺的问题，提出&lt;strong&gt;答案条件化的思维链蒸馏&lt;/strong&gt;方法：由前沿视觉语言模型基于正确标签生成视觉解释，再通过&lt;strong&gt;LoRA&lt;/strong&gt;将推理增强样本迁移至&lt;strong&gt;30亿参数的小型VLM&lt;/strong&gt;。该方法仅使用每项任务18至30张标注图像，便在全部16个种子—任务组合上优于直接微调，平均提升&lt;strong&gt;1.7至4.4个百分点&lt;/strong&gt;；消融实验还表明，未经答案约束的错误推理会使性能下降&lt;strong&gt;17.8个百分点&lt;/strong&gt;。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
+
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #259b79;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#12614d;&quot;&gt;5. Pre-trained Model&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#4f756b;&quot;&gt;1 PAPER&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.cell.com/iscience/fulltext/S2589-0042(26)02177-2?rss=yes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Interpretable machine learning reveals daytime and nighttime forest fire point drivers in Guizhou&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #d9ebe5;border-left:5px solid #259b79;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(20,90,70,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;06 · 2026-07-14&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2607.11384&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#087f5b;text-decoration:none;&quot;&gt;&lt;strong&gt;Amorphous materials as a frontier challenge for universal interatomic potentials&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;iScience&lt;/strong&gt; · 2026-07-15 · 方向：interpretable machine learning
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;arXiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#e8f7f3;color:#087f5b;font-weight:700;&quot;&gt;匹配方向：pre-trained model&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究关注贵州森林火灾点在白天与夜间的驱动机制及其差异。作者采用&lt;strong&gt;可解释机器学习&lt;/strong&gt;进行环境监测分析，识别并比较不同时段的关键火灾驱动因素，为分时段风险评估和防火管理提供依据；现有摘要未披露具体模型、数据规模及因素排序。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究考察预训练基础型&lt;strong&gt;机器学习原子间势&lt;/strong&gt;在非晶材料上的迁移能力，指出现有模型与基准主要面向有序晶体，因而难以保证对无序结构的可靠泛化。作者构建涵盖典型非晶体系及其结构、性质的&lt;strong&gt;基准数据集&lt;/strong&gt;，系统评估主流模型并探索面向无序相的&lt;strong&gt;微调策略&lt;/strong&gt;；结果揭示了多种预训练模型的迁移局限，并为训练数据设计和下一代可迁移原子模型提供了指导。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;4&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;AI Accountability · AI 问责 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（1 篇）&lt;/span&gt;&lt;/h2&gt;
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #67a73a;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#416d22;&quot;&gt;6. Remote Sensing&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#688156;&quot;&gt;1 PAPER&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.pnas.org/doi/abs/10.1073/pnas.2606495123?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Many AI analysts, one dataset: Navigating the agentic data science multiverse&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #e0ebd8;border-left:5px solid #67a73a;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(65,110,30,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;07 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.cell.com/iscience/fulltext/S2589-0042(26)01648-2?rss=yes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#4c7d21;text-decoration:none;&quot;&gt;&lt;strong&gt;Estimating soil organic carbon density in mangroves of different stand ages using multi-source remote sensing and machine learning&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;PNAS&lt;/strong&gt; · 2026-07-14 · 方向：AI accountability
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#dbeafe;color:#1d4ed8;&quot;&gt;中等相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;iScience&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#eef7e8;color:#4c7d21;font-weight:700;&quot;&gt;匹配方向：remote sensing&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对科学结论受隐性分析决策影响、研究过程难以充分复现的问题，使用多个&lt;strong&gt;基于LLM的智能体&lt;/strong&gt;对同一数据集开展分析。其构建的&lt;strong&gt;“数据科学多重宇宙”&lt;/strong&gt;以一组可辩护的分析路径和结果呈现结论的不确定性，有助于提高AI辅助研究中的分析透明度、可审计性与责任归属。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究面向不同林龄红树林的土壤有机碳密度估算，结合&lt;strong&gt;多源遥感数据&lt;/strong&gt;与&lt;strong&gt;机器学习&lt;/strong&gt;分析土壤碳储量的空间差异。其技术路线与农业土壤质量评估及遥感监测具有方法学关联，但现有摘要未报告具体模型、预测精度或关键定量结果。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;5&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Remote Sensing · 遥感 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（1 篇）&lt;/span&gt;&lt;/h2&gt;
+  &lt;section style=&quot;margin-top:30px;&quot;&gt;
+    &lt;div style=&quot;display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;padding-bottom:9px;border-bottom:3px solid #e58a18;&quot;&gt;
+      &lt;h2 style=&quot;margin:0;font-size:21px;color:#8d4d00;&quot;&gt;7. Energy Storage&lt;/h2&gt;
+      &lt;span style=&quot;font-size:12px;font-weight:700;color:#8b6a40;&quot;&gt;18 PAPERS&lt;/span&gt;
     &lt;/div&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.cell.com/iscience/fulltext/S2589-0042(26)02174-7?rss=yes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Integrating multi-index remote sensing and machine learning for mangrove dynamics assessment using sentinel-2 imagery&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;08 · 2026-07-14&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/sstr.70543?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Ionophilic Amide‐Linked Planar π‐Conjugated Polymer Armored Si Microparticles for Stable Anode and F‐Rich Solid Electrolyte Interphase Formation in Lithium‐Ion Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;iScience&lt;/strong&gt; · 2026-07-21 · 方向：remote sensing
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Small Struct.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究面向红树林动态评估，利用&lt;strong&gt;Sentinel-2卫星影像&lt;/strong&gt;开展大范围遥感监测。方法将&lt;strong&gt;多种遥感指数与机器学习&lt;/strong&gt;相结合，以识别和分析红树林覆盖及其时空变化，为生态系统的自动化、可扩展监测提供工具。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对锂离子电池&lt;strong&gt;硅微粒负极&lt;/strong&gt;循环稳定性及固体电解质界面质量问题，采用&lt;strong&gt;亲离子型酰胺连接平面π共轭聚合物&lt;/strong&gt;包覆硅微粒。该聚合物保护层旨在稳定负极并促进&lt;strong&gt;富氟固体电解质界面&lt;/strong&gt;形成，从而改善硅负极的长期储能性能。&lt;/p&gt;
+    &lt;/article&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;6&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Energy Storage · 储能 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（15 篇）&lt;/span&gt;&lt;/h2&gt;
-    &lt;/div&gt;
-
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77180?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Interfacial Electronic Structure Regulation via Dual Built‐In Electric Fields in Sulfide Solid Electrolytes&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;09 · 2026-07-14&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71316?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Designing Polysulfide‐Resistant Solid Electrolyte Interphase for Long‐Cycling Lithium–Sulfur Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Advanced Functional Materials&lt;/strong&gt; · 2026-07-20 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Energy Mater.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究聚焦&lt;strong&gt;硫化物固态电解质&lt;/strong&gt;的界面电子结构调控，这类电解质是固态电池储能系统的关键材料。工作提出&lt;strong&gt;双内建电场策略&lt;/strong&gt;来调节界面电子结构，但所给摘要未披露具体的离子传导、界面稳定性或电池性能提升数据。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究聚焦&lt;strong&gt;锂硫电池&lt;/strong&gt;中多硫化物引发的界面副反应与循环寿命衰减问题，通过设计&lt;strong&gt;耐多硫化物的固体电解质界面&lt;/strong&gt;进行抑制。其核心结果是构建更稳定的电极界面以支持长循环锂硫电池，为高比能储能体系的耐久性提升提供材料设计思路。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2607.15387&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Phase-Field Simulation of Dendrite Evolution in All-Solid-State Sodium Batteries during Cycling&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;10 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76563?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Enhanced Ionic Conductivity at the Solid Electrolyte Interphase of Oxygen‐Doped Li6PS5Cl&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;arXiv&lt;/strong&gt; · 2026-07-20 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Sci.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对全固态钠电池循环过程中枝晶持续穿透的问题，构建由&lt;strong&gt;密度泛函理论&lt;/strong&gt;参数支持的&lt;strong&gt;相场模型&lt;/strong&gt;，分析纯钠与钠锑合金负极、&lt;strong&gt;Na&lt;sub&gt;3&lt;/sub&gt;SbS&lt;sub&gt;4&lt;/sub&gt;&lt;/strong&gt;多晶电解质以及电压和微结构的影响。结果显示，晶界几何导致沉积与剥离过程不对称，残留的孤立钠在晶界交汇处被动力学稳定，并在后续循环中重新活化，从而加速枝晶扩展；这一机制为稳定负极—电解质界面提供了设计依据。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对全固态锂电池中固体电解质界面离子传输受限的问题，考察&lt;strong&gt;氧掺杂&lt;/strong&gt;对&lt;strong&gt;Li&lt;sub&gt;6&lt;/sub&gt;PS&lt;sub&gt;5&lt;/sub&gt;Cl&lt;/strong&gt;及其界面性质的调控作用。结果表明，氧掺杂能够提高固体电解质界面处的离子电导率，为降低界面阻抗和改善电池循环性能提供材料设计思路。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2607.15514&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Exploring the Potential of BY3 (Y = P, As) Monolayers as High-Capacity and Rapid-Diffusion Anodes for Sodium-Ion Batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;11 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71255?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Anion‐Cation Co‐Tailored High‐Flash‐Point Phosphate‐based Electrolyte Enables High‐Voltage, Wide‐Temperature, Non‐Flammable Sodium Metal Batteries via an Inorganic‐Rich Solid Electrolyte Interphase&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;arXiv&lt;/strong&gt; · 2026-07-20 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Energy Mater.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究利用第一性原理密度泛函理论评估&lt;strong&gt;BAs&lt;sub&gt;3&lt;/sub&gt;和BP&lt;sub&gt;3&lt;/sub&gt;二维单层&lt;/strong&gt;作为钠离子电池负极的结构稳定性、钠吸附、离子迁移、电子结构及理论容量。两种材料在高钠化程度下仍保持金属性，最优迁移势垒分别低至&lt;strong&gt;0.19和0.26 eV&lt;/strong&gt;，理论比容量分别达到&lt;strong&gt;1365和3875 mAh g&lt;sup&gt;−1&lt;/sup&gt;&lt;/strong&gt;，显示出高容量与快速充放电潜力。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究面向钠金属电池在高电压、宽温度运行条件下的易燃性和界面不稳定问题，设计了&lt;strong&gt;阴离子—阳离子协同调控的高闪点磷酸酯电解液&lt;/strong&gt;。该电解液可形成&lt;strong&gt;富无机物的固体电解质界面&lt;/strong&gt;，从而兼顾不可燃特性、宽温适应性与高电压运行能力。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2603.07805&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Machine Learning for Electrode Materials: Property Prediction via Composition&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;12 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/anie.8007340?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Unlocking Zn‐Ion Diffusion in Disordered Rocksalt Cathodes for Nonaqueous Zn‐Ion Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;arXiv&lt;/strong&gt; · 2026-07-20 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Chem&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究基于&lt;strong&gt;Materials Project Battery Explorer&lt;/strong&gt;数据集，对&lt;strong&gt;MODNet、CrabNet&lt;/strong&gt;及采用&lt;strong&gt;Magpie&lt;/strong&gt;特征的随机森林进行电池电极材料性质预测基准测试。通过自助重采样、留一聚类交叉验证、分层五折验证和未见实验数据测试，&lt;strong&gt;CrabNet&lt;/strong&gt;总体表现最佳；&lt;strong&gt;t-SNE与DBSCAN&lt;/strong&gt;还揭示了无标签条件下的材料组成分群，表明其可作为电极材料早期筛选工具，但仍存在误差分布和泛化限制。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对非水系锌离子电池中多价&lt;strong&gt;Zn离子&lt;/strong&gt;在正极材料内扩散缓慢的问题，探索&lt;strong&gt;无序岩盐正极&lt;/strong&gt;中的离子迁移机制与结构调控策略。研究实现了对Zn离子扩散通道的解锁，为开发具有更快动力学和更高可逆性的非水系锌离子储能材料提供依据。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/smll.74574?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Magneto‐Electrodeposition and Field‐Enhanced Ion Transport in Zn‐MnO2 Batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;13 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005973/v1?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Establishing Quantitative Electrolyte-Solid Electrolyte Interphase Relationships in Lithium Metal Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Small&lt;/strong&gt; · 2026-07-20 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;ChemRxiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该论文聚焦&lt;strong&gt;Zn-MnO&lt;sub&gt;2&lt;/sub&gt;电池&lt;/strong&gt;中的&lt;strong&gt;磁场辅助电沉积与场增强离子输运&lt;/strong&gt;，方向上涉及通过外场调控电极反应和传质过程，以改善电化学储能性能。当前提供的摘要仅包含EarlyView元数据，未披露具体实验方法、性能指标及关键结论，因此无法进一步核实其增益幅度和作用机制。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究聚焦锂金属负极诱发电解液还原分解、形成固体电解质界面并造成活性锂持续损失的问题。作者旨在建立&lt;strong&gt;电解液性质与SEI形成及性能之间的定量关系&lt;/strong&gt;，以识别影响锂利用率和循环稳定性的关键化学因素，并指导锂金属电池电解液的理性设计。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/anie.4295699?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Cyclic P&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;9&lt;/sub&gt;&lt;sup&gt;3−&lt;/sup&gt; Trimer: A Network Former for Amorphous Superionic Conductors in Sodium Solid‐State Batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;14 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.75364?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Microstructure Optimization of Na3SbS4/Na3Zr2Si2PO12 Composite Solid Electrolytes for Improving Cycling Stability in All‐Solid‐State Sodium Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Angewandte Chemie International Edition&lt;/strong&gt; · 2026-07-19 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Sci.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究面向钠固态电池的固体电解质设计，探索以环状&lt;strong&gt;P&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;9&lt;/sub&gt;&lt;sup&gt;3−&lt;/sup&gt;三聚体&lt;/strong&gt;作为非晶网络形成单元。研究表明这一结构可用于构建&lt;strong&gt;非晶超离子导体&lt;/strong&gt;，为提升钠离子传输能力和开发高性能全固态储能体系提供新的材料路线。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对全固态钠电池中固体电解质传输及界面稳定性不足的问题，对&lt;strong&gt;Na&lt;sub&gt;3&lt;/sub&gt;SbS&lt;sub&gt;4&lt;/sub&gt;/Na&lt;sub&gt;3&lt;/sub&gt;Zr&lt;sub&gt;2&lt;/sub&gt;Si&lt;sub&gt;2&lt;/sub&gt;PO&lt;sub&gt;12&lt;/sub&gt;复合固体电解质&lt;/strong&gt;进行微结构优化。优化后的复合结构旨在改善离子传导和界面接触，从而提高全固态钠电池的循环稳定性。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74180?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Fluorinated Deep Eutectic Gel Electrolytes with Simultaneously Enhanced Mechanical Strength and Ionic Conductivity for Solid‐State Lithium Metal Batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;15 · 2026-07-13&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74049?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Direct Visualization and Regulation of Interfacial Ion Concentration Layer at Zinc Metal Interfaces via an Ion‐Buffering Artificial Solid Electrolyte Interphase&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Advanced Materials&lt;/strong&gt; · 2026-07-18 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Mater.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对固态锂金属电池中凝胶电解质机械强度与离子电导率难以兼顾的问题，设计了&lt;strong&gt;含氟深共熔凝胶电解质&lt;/strong&gt;。该体系同时增强力学性能和离子传输能力，有望改善锂金属电池的界面稳定性、安全性与长期运行可靠性。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对锌金属界面离子浓度分布不均可能引发的沉积失稳问题，&lt;strong&gt;直接可视化界面离子浓度层&lt;/strong&gt;，并构建具有&lt;strong&gt;离子缓冲作用的人工固体电解质界面&lt;/strong&gt;。该界面能够调节局部离子浓度与传输行为，为实现均匀锌沉积和提升锌金属储能体系的稳定性提供新策略。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0167273826001487?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Deep eutectic electrolytes assisted by ionic liquid for enhanced lithium-ion transport and electrochemical stability&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;16 · 2026-07-11&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.76968?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Synergistic Regulation of Charge and Ion Transport in Mn‐Rich NASICON Cathodes Toward High‐Energy Sodium‐Ion Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Solid State Ionics&lt;/strong&gt; · 2026-07-17 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Funct. Mater.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究利用&lt;strong&gt;离子液体辅助深共熔电解质&lt;/strong&gt;，解决锂电池电解质中锂离子迁移效率和电化学稳定性受限的问题。所提出的电解质体系增强了锂离子传输并拓展了稳定工作能力，为高性能、安全型锂离子储能器件提供了材料设计思路。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究面向高能量密度钠离子电池，解决&lt;strong&gt;富锰NASICON正极&lt;/strong&gt;中电子传导、离子扩散与结构稳定性难以兼顾的问题。作者通过&lt;strong&gt;协同调控电荷和离子传输&lt;/strong&gt;改善正极反应动力学，从而推动富锰NASICON材料实现更高的储能性能。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71308?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Weakening Ion Transport Anisotropy Activates Superionic Conduction in Li&lt;sub&gt;2&lt;/sub&gt;ZrCl&lt;sub&gt;6&lt;/sub&gt;&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;17 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352847826001267?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Novel silicon-based solid-state electrolytes Li 2 SiI 4 O based on theoretical calculation prediction&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Advanced Energy Materials&lt;/strong&gt; · 2026-07-17 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;J. Materiomics&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究聚焦&lt;strong&gt;Li&lt;sub&gt;2&lt;/sub&gt;ZrCl&lt;sub&gt;6&lt;/sub&gt;固态电解质&lt;/strong&gt;中各向异性离子传输对整体电导率的限制，提出通过削弱传输各向异性来激活&lt;strong&gt;超离子导电&lt;/strong&gt;。结果揭示了离子迁移方向均衡化与高电导之间的联系，为优化卤化物固态电解质及全固态电池性能提供了机制依据。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对固态锂电池对高性能固态电解质的需求，利用&lt;strong&gt;理论计算&lt;/strong&gt;预测新型硅基&lt;strong&gt;Li&lt;sub&gt;2&lt;/sub&gt;SiI&lt;sub&gt;4&lt;/sub&gt;O电解质&lt;/strong&gt;。工作从计算层面评估其结构与锂离子传输潜力，为固态电解质筛选及后续实验验证提供候选材料。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004288/v2?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Lithium-Ion Battery Electrolyte Structural Transport Mechanism: Attempt Frequencies and Activation Free Energies&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;18 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26032329?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Uniform in situ metal-organic frameworks modification of separators via an interfacial induction strategy for regulating ion transport and enabling dendrite-free lithium metal batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;ChemRxiv&lt;/strong&gt; · 2026-07-17 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;J. Energy Storage&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;研究聚焦锂离子电池电解液中的离子传输，分析除常规载体扩散之外的&lt;strong&gt;结构扩散机制&lt;/strong&gt;，并从&lt;strong&gt;尝试频率和活化自由能&lt;/strong&gt;角度描述其动力学。工作强调部分去溶剂化是结构扩散的重要分子过程，有助于理解和调控电解液中的锂离子迁移，从而为储能电池电解液设计提供机理依据。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究旨在缓解锂金属电池中的离子传输不均和锂枝晶生长问题，采用&lt;strong&gt;界面诱导策略&lt;/strong&gt;在隔膜表面均匀原位构筑&lt;strong&gt;金属有机框架修饰层&lt;/strong&gt;。该修饰层能够调节锂离子通量并促进均匀沉积，从而支持无枝晶锂金属负极和更稳定的电池运行。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26032925?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Functionalized zirconium-based metal-organic framework separator for enhanced ionic conductivity in zinc-polyiodide flow batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;19 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26031774?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Mechanical properties and microstructure on the mechanical stability of solid electrolyte interphase&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Journal of Energy Storage&lt;/strong&gt; · 2026-07-16 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;J. Energy Storage&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究面向锌-多碘化物流电池中隔膜离子传输能力不足的问题，采用&lt;strong&gt;功能化锆基金属有机框架&lt;/strong&gt;构建电池隔膜。题名表明该设计可增强离子电导率，但所给摘要仅包含出版信息，未报告具体性能增益、循环稳定性或作用机理。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究关注固体电解质界面的机械失稳问题，分析&lt;strong&gt;SEI机械性质及微观结构&lt;/strong&gt;对其完整性和稳定性的影响。研究揭示材料力学响应与界面微结构共同决定SEI承受电极形变的能力，可为抑制界面破裂和改善电池循环稳定性提供依据。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26032214?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Boron‑oxygen‑sulfur bond synergistic effect for boosted critical current density and lithium compatibility in sulfide solid-state electrolytes&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;20 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X2603224X?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Enhanced lithium-ion transport and structural stability in Cr Zn dual-doped LiNi 0.5 Mn 1.5 O 4 for high-voltage lithium-ion batteries: combined experimental and computational study&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Journal of Energy Storage&lt;/strong&gt; · 2026-07-16 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;J. Energy Storage&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对硫化物固态电解质临界电流密度及其与锂金属界面相容性受限的问题，引入&lt;strong&gt;硼—氧—硫键协同调控策略&lt;/strong&gt;。题名显示该机制能够同时提升临界电流密度和锂相容性，但当前摘要未提供材料组成、实验指标及稳定性数据。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对高电压&lt;strong&gt;LiNi&lt;sub&gt;0.5&lt;/sub&gt;Mn&lt;sub&gt;1.5&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;正极&lt;/strong&gt;的锂离子迁移动力学和结构稳定性问题，引入&lt;strong&gt;Cr、Zn双掺杂&lt;/strong&gt;并结合实验表征与计算分析进行研究。结果表明双掺杂可协同增强锂离子传输并稳定材料结构，为提升高电压锂离子电池性能提供了材料设计方案。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77061?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Overcoming Interphasial Ion Transport Bottleneck by In Situ Hybrid Solid Electrolytes for Ambient Temperature Lithium Metal Batteries&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;21 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26031737?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Poly(vinylidene fluoride- co -hexafluoropropylene) based solid polymer electrolytes: Structure, property regulation, ion transport mechanism and industrialization progress in lithium metal batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Advanced Functional Materials&lt;/strong&gt; · 2026-07-15 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;J. Energy Storage&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对室温锂金属电池中的&lt;strong&gt;界面离子传输瓶颈&lt;/strong&gt;，采用&lt;strong&gt;原位构筑混合固态电解质&lt;/strong&gt;的方法改善电极—电解质界面。研究重点在于提升离子跨界面输运能力，为室温固态锂金属储能体系的稳定运行提供材料设计方案。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该综述围绕锂金属电池用&lt;strong&gt;聚偏二氟乙烯-共-六氟丙烯固态聚合物电解质&lt;/strong&gt;，系统梳理其结构设计、性能调控与&lt;strong&gt;离子传输机制&lt;/strong&gt;。文章进一步总结相关材料的工程化和产业化进展，为兼顾离子电导率、界面稳定性、机械性能与规模制造提供参考。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77133?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Regulating the Inner Helmholtz Plane Enables Stable Solid Electrolyte Interphase and Oriented Deposition of Al Anodes&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;22 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74022?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Solvent Engineering Enabled Fast Long‐Range Ion Transport in Mn/Fe‐Based Prussian Blue Analogues for High‐Loading‐Mass Zn‐Ion Batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Advanced Functional Materials&lt;/strong&gt; · 2026-07-15 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Adv. Mater.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究针对铝负极固体电解质界面不稳定及金属沉积形貌难以控制的问题，通过调节&lt;strong&gt;内亥姆霍兹平面&lt;/strong&gt;的界面结构与反应环境进行优化。该策略可促进稳定固体电解质界面的形成和&lt;strong&gt;铝的定向沉积&lt;/strong&gt;，为提高铝基电化学储能器件的稳定性提供了新思路。&lt;/p&gt;
-    &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对高载量锌离子电池中&lt;strong&gt;Mn/Fe基普鲁士蓝类似物&lt;/strong&gt;长程离子传输缓慢的问题，采用&lt;strong&gt;溶剂工程&lt;/strong&gt;调控材料形成及传输环境。该策略实现更快速的长距离离子迁移，从而改善高活性物质载量条件下的电化学储能表现。&lt;/p&gt;
+    &lt;/article&gt;
 
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.cell.com/joule/fulltext/S2542-4351(26)00253-9?rss=yes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Designing zero-degradation LFP batteries via rational lithium release from LFO additives&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;23 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.nature.com/articles/s41565-026-02221-1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Coherent twins for manufacturing thick lithium-rich battery positive electrodes&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Joule&lt;/strong&gt; · 2026-07-15 · 方向：energy storage
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#f1f5f9;color:#64748b;&quot;&gt;低相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Nat. Nanotechnol.&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;该研究关注磷酸铁锂电池的容量衰减问题，利用基于&lt;strong&gt;PyBaMM&lt;/strong&gt;的电池数学建模分析&lt;strong&gt;Li&lt;sub&gt;5&lt;/sub&gt;FeO&lt;sub&gt;4&lt;/sub&gt;（LFO）添加剂&lt;/strong&gt;的补锂机制。结果表明，缓慢且延迟的锂离子释放配合适中的添加剂含量，可帮助&lt;strong&gt;LFP电池实现近零衰减&lt;/strong&gt;，并为长寿命储能电池的材料设计提供依据。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究针对富锂正极在增厚后锂离子传输受限、结构应力增大，导致高面容量电极难以有效工作的难题。作者利用&lt;strong&gt;相干孪晶界&lt;/strong&gt;构建&lt;strong&gt;三维锂离子传输通道&lt;/strong&gt;并缓解结构应力，使厚型富锂正极能够在锂离子软包电池中实现有效运行。&lt;/p&gt;
+    &lt;/article&gt;
 
-  &lt;div style=&quot;margin-top:28px;&quot;&gt;
-    &lt;div style=&quot;display:flex;align-items:center;gap:10px;margin-bottom:14px;&quot;&gt;
-      &lt;span style=&quot;display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#1d4ed8;color:#ffffff;font-size:14px;font-weight:800;&quot;&gt;7&lt;/span&gt;
-      &lt;h2 style=&quot;margin:0;font-size:21px;line-height:1.3;color:#0f172a;&quot;&gt;Battery Management System · 电池管理系统 &lt;span style=&quot;font-size:13px;font-weight:600;color:#64748b;&quot;&gt;（1 篇）&lt;/span&gt;&lt;/h2&gt;
-    &lt;/div&gt;
-
-    &lt;div style=&quot;margin-bottom:14px;padding:18px 20px;border:1px solid #dbe4f0;border-left:4px solid #2563eb;border-radius:12px;background:#ffffff;box-shadow:0 3px 12px rgba(15,23,42,0.05);&quot;&gt;
-      &lt;h3 style=&quot;margin:0 0 8px;font-size:17px;line-height:1.45;&quot;&gt;
-        &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S2352152X26031385?dgcid=rss_sd_all&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#174ea6;text-decoration:none;&quot;&gt;Health estimation of onboard electric vehicle batteries from partial driving data using frequency domain features and machine learning model&lt;/a&gt;
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;24 · 2026-07-10&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://www.cell.com/joule/fulltext/S2542-4351(26)00254-0?rss=yes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Scalable interface-interphase design of tin electrodes enables pouch-type sodium all-solid-state batteries&lt;/strong&gt;&lt;/a&gt;
       &lt;/h3&gt;
-      &lt;div style=&quot;margin-bottom:9px;font-size:12px;color:#64748b;&quot;&gt;
-        &lt;strong style=&quot;color:#334155;&quot;&gt;Journal of Energy Storage&lt;/strong&gt; · 2026-07-15 · 方向：battery management system
-        &lt;span style=&quot;display:inline-block;margin-left:7px;padding:1px 7px;border-radius:999px;background:#dbeafe;color:#1d4ed8;&quot;&gt;中等相关性&lt;/span&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;Joule&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
       &lt;/div&gt;
-      &lt;p style=&quot;margin:0;font-size:14px;color:#374151;&quot;&gt;针对车载电动汽车电池仅有部分驾驶数据时健康状态难以准确估计的问题，该研究从有限运行数据中提取&lt;strong&gt;频域特征&lt;/strong&gt;，并利用&lt;strong&gt;机器学习模型&lt;/strong&gt;完成电池健康评估。该方法将频谱信息与数据驱动建模结合，可减少对完整驾驶周期数据的依赖，为&lt;strong&gt;电池管理系统&lt;/strong&gt;中的在线健康监测和维护决策提供支持。&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究旨在解决钠全固态电池锡负极的界面稳定性、可逆合金化和高压力运行依赖问题。作者将&lt;strong&gt;渗入式钠闭式硼酸盐负极电解质&lt;/strong&gt;与&lt;strong&gt;碳纳米管支架&lt;/strong&gt;结合，并配合正极和固态电解质膜的&lt;strong&gt;干法制造&lt;/strong&gt;，实现了低压力下的可逆合金化及首个软包型钠全固态电池示范。&lt;/p&gt;
+    &lt;/article&gt;
 
-  &lt;div style=&quot;margin-top:26px;padding:14px 18px;border-radius:10px;background:#eaf1fb;color:#475569;font-size:12px;text-align:center;&quot;&gt;
-    方向顺序依据用户研究兴趣列表；同一方向内优先考虑匹配相关性，并结合发布时间排列。
-  &lt;/div&gt;
-&lt;/div&gt;</description><guid isPermaLink="false">paper-feed-ai-summary-2026-07-26T19-13-21.670461Z</guid><pubDate>Sun, 26 Jul 2026 19:13:21 GMT</pubDate></item></channel></rss>
+    &lt;article style=&quot;margin-bottom:14px;padding:20px;border:1px solid #f0e1ca;border-left:5px solid #e58a18;border-radius:12px;background:#ffffff;box-shadow:0 4px 14px rgba(130,75,10,0.06);&quot;&gt;
+      &lt;div style=&quot;margin-bottom:7px;font-size:12px;font-weight:700;color:#718096;&quot;&gt;25 · 2026-07-09&lt;/div&gt;
+      &lt;h3 style=&quot;margin:0 0 10px;font-size:17px;line-height:1.45;&quot;&gt;
+        &lt;a href=&quot;https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002031/v2?af=R&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;color:#a85d00;text-decoration:none;&quot;&gt;&lt;strong&gt;Overcoming Cathode Coating Inhomogeneity: The Role of LiF Interlayer in Enabling Conformal LiNbO3 Protection on LiNi0.8Co0.1Mn0.1O2 for All Solid-State Batteries&lt;/strong&gt;&lt;/a&gt;
+      &lt;/h3&gt;
+      &lt;div style=&quot;display:flex;flex-wrap:wrap;gap:8px 14px;margin-bottom:12px;font-size:12px;color:#52657a;&quot;&gt;
+        &lt;span&gt;&lt;strong&gt;期刊：&lt;/strong&gt;ChemRxiv&lt;/span&gt;
+        &lt;span style=&quot;padding:2px 8px;border-radius:999px;background:#fff3df;color:#a85d00;font-weight:700;&quot;&gt;匹配方向：energy storage&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;p style=&quot;margin:0;font-size:14px;color:#334155;&quot;&gt;该研究关注高镍&lt;strong&gt;LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;正极&lt;/strong&gt;与&lt;strong&gt;Li&lt;sub&gt;6&lt;/sub&gt;PS&lt;sub&gt;5&lt;/sub&gt;Cl硫化物固态电解质&lt;/strong&gt;组合中，保护涂层不均匀及界面电化学和化学副反应严重的问题。作者引入&lt;strong&gt;LiF中间层&lt;/strong&gt;以促进&lt;strong&gt;LiNbO&lt;sub&gt;3&lt;/sub&gt;保护层&lt;/strong&gt;在正极颗粒表面的共形覆盖，为改善全固态电池正极—电解质界面稳定性提供了界面工程方案。&lt;/p&gt;
+    &lt;/article&gt;
+  &lt;/section&gt;
+
+  &lt;footer style=&quot;margin-top:28px;padding:16px 20px;border-top:1px solid #d7e0ea;text-align:center;font-size:12px;color:#718096;&quot;&gt;
+    Daily AI Literature Insights · 25 selected papers from 100 candidates
+  &lt;/footer&gt;
+&lt;/div&gt;</description><guid isPermaLink="false">paper-feed-ai-summary-2026-07-27T19-35-41.464772Z</guid><pubDate>Mon, 27 Jul 2026 19:35:41 GMT</pubDate></item></channel></rss>
